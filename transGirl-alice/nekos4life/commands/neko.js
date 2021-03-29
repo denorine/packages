@@ -29,6 +29,8 @@ case 'gecg':
 case 'avatar':
 case 'waifu':
     sfw=true;
+default:
+	sfw=false;
 }
 if (!sfw) {
     message.reply("Oops, either the command isn't sfw or it isn't a real command")
