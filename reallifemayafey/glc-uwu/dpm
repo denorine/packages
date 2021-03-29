@@ -1,0 +1,6 @@
+{
+"Name":"GLC UwU Commands",
+"Description": "UwU commands for GLC",
+ "npm-dependencies": ["snoowrap", "snoostorm"],
+ "conflicts": ["Sock/glc-main"]
+}
