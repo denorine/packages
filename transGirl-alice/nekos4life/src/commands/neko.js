@@ -28,8 +28,12 @@ case 'goose':
 case 'gecg':
 case 'avatar':
 case 'waifu':
+case '8ball':
 	sfw=true;
 	break;
+case 'help':
+    message.reply("8ball smug baka tickle slap poke pat neko ngif meow lizard kiss hug fox_girl feed cuddle kemonomimi holo woof wallpaper goose gecg avatar waifu")
+    return;
 default:
 	sfw=false;
 }
