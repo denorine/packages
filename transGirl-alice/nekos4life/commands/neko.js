@@ -28,7 +28,8 @@ case 'goose':
 case 'gecg':
 case 'avatar':
 case 'waifu':
-    sfw=true;
+	sfw=true;
+	break;
 default:
 	sfw=false;
 }
