@@ -12,12 +12,12 @@ case 'slap':
 case 'poke':
 case 'pat':
 case 'neko':
-case 'nekoGif':
+case 'ngif':
 case 'meow':
 case 'lizard':
 case 'kiss':
 case 'hug':
-case 'foxGirl':
+case 'fox_girl':
 case 'feed':
 case 'cuddle':
 case 'kemonomimi':
