@@ -1,0 +1,6 @@
+{
+	"Name": "Fuck you",
+	"Description": "An insult used by idiotic people",
+	"dpm-dependencies": ["denorine-minimal"],
+	"files": []
+}
