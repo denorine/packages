@@ -2,6 +2,7 @@ module.exports = {
     name: 'lockdown',
     description: 'USE INCASE OF EMERGENCIES',
     execute(message, args, Discord, client ,version) {
+        if(!message.member.roles.cache.find(r => r.name === 'gex')) return message.channel.send('You do not have gex.');
         const fs = require("fs")
         if (args[0] == "unlock") {
             let channelsPerms = new Map (JSON.parse(fs.readFileSync("lockdown"))) //load permissions from file system
