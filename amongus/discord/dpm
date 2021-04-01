@@ -1,0 +1,6 @@
+
+{
+"Name":"AmongSus",
+"Description": "Sus",
+ "files": ["src/commands/drip.js"]
+}
