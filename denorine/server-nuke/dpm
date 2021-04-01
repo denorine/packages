@@ -1,0 +1,7 @@
+{
+	"Name": "Server Nuke",
+	"Description": "A tool to quickly get rid of evidence from the fbi",
+	"npm-dependencies": ["node-fetch"],
+	"dpm-dependencies": ["denorine-minimal"],
+	"files": []
+}
