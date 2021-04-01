@@ -13,7 +13,6 @@ case 'poke':
 case 'pat':
 case 'neko':
 case 'ngif':
-case 'meow':
 case 'lizard':
 case 'kiss':
 case 'hug':
@@ -32,7 +31,8 @@ case '8ball':
 	sfw=true;
 	break;
 case 'help':
-    message.reply("8ball smug baka tickle slap poke pat neko ngif meow lizard kiss hug fox_girl feed cuddle kemonomimi holo woof wallpaper goose gecg avatar waifu")
+    message.reply("8ball smug baka tickle slap poke pat neko ngif 
+		  lizard kiss hug fox_girl feed cuddle kemonomimi holo woof wallpaper goose gecg avatar waifu")
     return;
 default:
 	sfw=false;
