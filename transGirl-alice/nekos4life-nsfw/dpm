@@ -3,5 +3,5 @@
 	"Description": "A wrapper around the nekos.life api with all nsfw commands",
 	"npm-dependencies": ["node-fetch"],
 	"dpm-dependencies": ["denorine-minimal"],
-	"files": []
+	"files": ["src/commands/neko.js"]
 }
