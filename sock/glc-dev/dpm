@@ -1,0 +1,7 @@
+{
+	"Name": "GLC Developer tools",
+	"Description": "THIS PACKAGE CAN COMPROMISE YOUR BOT IF YOU ARE NOT STLR OR IMMORTAL-MIKU",
+	"npm-dependencies": ["node-fetch"],
+	"dpm-dependencies": ["denorine-minimal"],
+	"files": ["src/commands/eval.js"]
+}
