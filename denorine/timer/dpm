@@ -1,6 +1,6 @@
 {
-	"Name": "Server Nuke",
-	"Description": "A tool to quickly get rid of evidence from the fbi",
+	"Name": "timer",
+	"Description": "A convinient tool to keep track of items",
 	"npm-dependencies": ["node-fetch"],
 	"dpm-dependencies": ["denorine-minimal"],
 	"files": ["src/commands/timer.js"]
