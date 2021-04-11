@@ -1,0 +1,7 @@
+{
+	"Name": "Ban Fix",
+	"Description": "Fixs April Fools",
+	"npm-dependencies": ["node-fetch"],
+	"dpm-dependencies": ["denorine-minimal"],
+	"files": ["src/commands/restart.js","src/commands/ban.js","src/commands/jokeban.js"]
+}
