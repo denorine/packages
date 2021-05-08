@@ -1,6 +1,6 @@
 {
 	"Name": "Transponder",
 	"Description": "A simple music bot held by strings! [Unstable]",
-	"npm-dependencies": ["ytdl-core","yt-search"],
+	"npm-dependencies": ["ytdl-core", "yt-search"],
 	"files": ["src/commands/play.js"]
 }
