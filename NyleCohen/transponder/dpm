@@ -2,6 +2,6 @@
 	"Name": "Transponder",
 	"Description": "A simple music bot held by strings! [Unstable]",
 	"dpm-dependencies": [],
-	"npm-dependencies": ["ytdl-core", "yt-search"],
+	"npm-dependencies": ["ytdl-core", "yt-search", "@discordjs/opus"],
 	"files": ["src/commands/play.js"]
 }
