@@ -1,0 +1,7 @@
+{
+	"Name": "denorine-minimal",
+	"Description": "Update package for denorine",
+	"npm-dependencies": [],
+	"dpm-dependencies": [],
+	"files": []
+}
