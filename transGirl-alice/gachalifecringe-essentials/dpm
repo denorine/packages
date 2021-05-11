@@ -1,0 +1,6 @@
+{
+	"Name": "GLC essentials",
+	"Description": "essential files for the gachalifecringe discord server",
+	"dpmDependencies": ["denorine-minimal"],
+	"files": ["src/hooks/entryway.js","src/hooks/status.js"]
+}
