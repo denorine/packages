@@ -3,5 +3,5 @@
 	"Description": "code ripped from https://github.com/TannerGabriel/discord-bot",
 	"npm-dependencies": [],
 	"dpm-dependencies": [],
-	"files": ["src/commands/play.js","src/commands/skip.js", "src/commands/stop.js", "src/commands/nowplaying.js"]
+	"files": ["src/commands/play.js","src/commands/skip.js", "src/commands/stop.js", "src/commands/nowplaying.js", "src/hooks/music-startup.js"]
 }
