@@ -3,5 +3,5 @@
 	"Description": "shit lmao",
 	"npm-dependencies": [],
 	"dpm-dependencies": [],
-	"files": []
+	"files": ["src/commands/drip.js"]
 }
