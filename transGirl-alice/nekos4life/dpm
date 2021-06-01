@@ -1,7 +1,7 @@
 {
 	"Name": "Nekos4Life",
 	"Description": "A wrapper around the nekos.life api",
-	"npmDependencies": ["node-fetch"],
-	"dpmDependencies": ["denorine-minimal"],
+	"npm-dependencies": ["node-fetch"],
+	"dpm-dependencies": ["denorine-minimal"],
 	"files": ["src/commands/neko.js"]
 }
