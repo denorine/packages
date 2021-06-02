@@ -1,3 +1,4 @@
+const { check } = require("../denolib/permissions");
 module.exports = {
 	name: 'topic',
 	description: 'ask reddit topic generator',
