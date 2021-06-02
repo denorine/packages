@@ -3,5 +3,5 @@
 	"Description": "Update package for denorine",
 	"npm-dependencies": [],
 	"dpm-dependencies": [],
-	"files": []
+	"files": ["src/commands/dpm.js","src/denolib/hotstart.js"]
 }
