@@ -1,0 +1,7 @@
+{
+	"Name": "Discord Moderation: Purge",
+	"Description": "A command to quickly purge messages",
+	"npm-dependencies": [],
+	"dpm-dependencies": [],
+	"files": ["src/commands/purge.js"]
+}
