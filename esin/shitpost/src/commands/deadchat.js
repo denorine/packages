@@ -4,7 +4,7 @@ module.exports = {
 	execute(message) {
 		let montecarlo = Math.floor(Math.random()*3)
 		message.channel.send('Mods, can we get a dead chat ping here?');
-		switch(montecarlo)
+		switch(montecarlo) {
 			case 0:
 				message.channel.send('https://tenor.com/view/dead-chat-gif-21398098');
 				break;
