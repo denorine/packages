@@ -2,7 +2,7 @@ module.exports = {
 	name: 'deadchat',
 	description: 'Use this command when the chat is dead',
 	execute(message) {
-		let montecarlo = Math.floor(Math.random()*3)
+		let montecarlo = Math.floor(Math.random()*4)
 		message.channel.send('Mods, can we get a dead chat ping here?');
 		switch(montecarlo) {
 			case 0:
