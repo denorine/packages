@@ -4,6 +4,7 @@ module.exports = {
 	execute(message) {
 		let montecarlo = Math.floor(Math.random()*3)
 		message.channel.send('Mods, can we get a dead chat ping here?');
+		switch(montecarlo)
 			case 0:
 				message.channel.send('https://tenor.com/view/dead-chat-gif-21398098');
 				break;
@@ -16,6 +17,7 @@ module.exports = {
 			case 3:
 				message.channel.send('https://tenor.com/view/nikocado-avocado-nikocado-mental-breakdown-mukbang-rage-mukbang-gif-21266615');
 				break;
+		}
     		message.channel.send('EVERYBODY WAKE THE FUCK UP!');
 	},
 };
