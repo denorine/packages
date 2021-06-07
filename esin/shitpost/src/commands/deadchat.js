@@ -1,8 +1,8 @@
-var montecarlo = mathRandomInt(1,4)
 module.exports = {
 	name: 'deadchat',
 	description: 'Use this command when the chat is dead',
 	execute(message) {
+		var montecarlo = mathRandomInt(1,4)
 		message.channel.send('Mods, can we get a dead chat ping here?');
 		if (montecarlo == 1) {
     			message.channel.send('https://tenor.com/view/dead-chat-gif-21398098');
