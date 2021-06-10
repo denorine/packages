@@ -4,5 +4,5 @@
 "Description": "Sus",
  "files": ["src/commands/drip.js"],
 	"npm-dependencies": [],
-	"dpm-dependencies": [],
+	"dpm-dependencies": []
 }
