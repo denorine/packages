@@ -3,5 +3,5 @@
 	"Description": "The wonderful shitpost commands of Esin",
 	"npm-dependencies": [],
 	"dpm-dependencies": [],
-	"files": ["src/commands/drip.js", "src/commands/trollge.js", "src/commands/deadchat.js", "src/commands/selfcare.js", "src/commands/selfnegativity.js", "src/commands/saythenword.js"]
+	"files": ["src/commands/drip.js", "src/commands/trollge.js", "src/commands/deadchat.js", "src/commands/selfcare.js", "src/commands/selfnegativity.js", "src/commands/saythenword.js", "src/commands/gachaheat.js"]
 }
