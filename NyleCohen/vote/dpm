@@ -1,0 +1,7 @@
+{
+	"Name": "Vote",
+	"Description": "A Module to let you vote on discord",
+	"dpm-dependencies": [],
+	"npm-dependencies": [],
+	"files": ["src/commands/vote.js"]
+}
