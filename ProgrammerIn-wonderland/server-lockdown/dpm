@@ -1,6 +1,6 @@
 {
 	"Name": "server-lockdown",
 	"Description": "A way to lockdown servers incase of emergencies",
-	"dpmDependencies": ["denorine-minimal"],
+	"dpm-dependencies": ["denorine-minimal"],
 	"files": ["src/commands/lockdown.js"]
 }
