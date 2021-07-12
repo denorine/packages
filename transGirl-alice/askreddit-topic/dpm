@@ -1,7 +1,0 @@
-{
-	"Name": "Ask Reddit Topic Command",
-	"Description": "A command to help with chat activity",
-	"npm-dependencies": [],
-	"dpm-dependencies": [],
-	"files": ["src/commands/topic.js"]
-}

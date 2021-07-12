@@ -1,6 +1,0 @@
-{
-	Name: "dpm",
-	Description: "A wrapper around the nekos.life api",
-	npm-dependencies: ["node-fetch"],
-	dpm-dependencies: ["denorine-minimal"]
-}
