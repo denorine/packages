@@ -1,0 +1,7 @@
+{
+	"Name": "Advanced Ticket",
+	"Description": "A discord ticketting system",
+	"npm-dependencies": ["enmap"],
+	"dpm-dependencies": [],
+	"files": ["src/hooks/advancedticket.js"]
+}
