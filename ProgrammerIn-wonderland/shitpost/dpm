@@ -1,6 +1,7 @@
 {
 	"Name": "\"Your Mom\"",
 	"Description": "Doing her",
-	"dpm-dependencies": ["denorine-minimal"],
+	"dpm-dependencies": [],
+	"npm-dependencies": [],
 	"files": []
 }
