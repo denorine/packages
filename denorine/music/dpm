@@ -1,0 +1,7 @@
+{
+	"Name": "Denorine music",
+	"Description": "The new music bot for denorine2 [Unstable] [Beta]",
+	"dpm-dependencies": [],
+	"npm-dependencies": ["ytdl-core-discord", "yt-search", "@discordjs/opus"],
+	"files": ["src/commands/play.js"]
+}
